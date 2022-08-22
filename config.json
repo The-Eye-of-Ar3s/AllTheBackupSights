@@ -1,0 +1,10 @@
+{
+    "enabled": true,
+    "assaultScopes": true,
+    "collimators": true,
+    "excludeDovetail": true,
+    "compactCollimators": true,
+    "ironSights": false,
+    "optics": false,
+    "specialSights": true
+}
