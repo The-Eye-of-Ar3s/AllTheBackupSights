@@ -6,5 +6,6 @@
     "compactCollimators": true,
     "ironSights": false,
     "optics": false,
-    "specialSights": true
+    "specialSights": true,
+    "sightsInMountSlot": true
 }
