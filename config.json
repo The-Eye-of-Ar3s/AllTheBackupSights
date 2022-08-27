@@ -1,11 +1,14 @@
 {
     "enabled": true,
-    "assaultScopes": true,
-    "collimators": true,
+    "types": {
+        "assaultScopes": false,
+        "collimators": true,
+        "compactCollimators": true,
+        "optics": false,
+        "specialSights": false
+    },
+    "riser": true,
     "excludeDovetail": true,
-    "compactCollimators": true,
-    "ironSights": false,
-    "optics": false,
-    "specialSights": true,
-    "sightsInMountSlot": true
+    "sightsInMountSlot": true,
+    "backupInDefaultSlot": true
 }
