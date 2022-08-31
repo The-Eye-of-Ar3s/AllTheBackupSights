@@ -5,10 +5,12 @@
         "collimators": true,
         "compactCollimators": true,
         "optics": false,
-        "specialSights": false
+        "specialSights": false,
+        "tacticalDevices": true
     },
     "riser": true,
-    "excludeDovetail": true,
+    "backupIronsights": true,
+    "backupInTacticalSlot": true,
     "sightsInMountSlot": true,
     "backupInDefaultSlot": true
 }
