@@ -1,15 +1,12 @@
 {
     "enabled": true,
     "types": {
-        "assaultScopes": false,
         "collimators": true,
         "compactCollimators": true,
-        "optics": false,
-        "specialSights": false,
         "tacticalDevices": true
     },
     "riser": true,
-    "backupIronsights": true,
+    "backupInIronsightsSlot": true,
     "backupInTacticalSlot": true,
     "sightsInMountSlot": true,
     "backupInDefaultSlot": true

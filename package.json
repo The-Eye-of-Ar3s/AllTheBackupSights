@@ -1,6 +1,6 @@
 {
     "name": "AllTheBackupSights",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "main": "src/mod.js",
     "license": "Attribution-ShareAlike 4.0 International",
     "author": "TheEyeOfAres",
